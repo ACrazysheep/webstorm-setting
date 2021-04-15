@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="///" value="&lt;!--&#10;    @name: &#10;    @description: &#10;    @author: CrazySheep&#10;    @time: $date$&#10;--&gt;" description="页面介绍" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date(&quot;yyyy-MM-dd HH:mm:ss&quot;)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

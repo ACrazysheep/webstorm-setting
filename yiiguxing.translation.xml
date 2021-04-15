@@ -1,0 +1,29 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="427" />
+    <option name="newTranslationDialogY" value="360" />
+    <histories>
+      <item value="sell" />
+      <item value="hello" />
+      <item value="hell" />
+      <item value="helle" />
+      <item value="你好" />
+      <item value="你" />
+      <item value="ekek" />
+      <item value="a adasd" />
+      <item value="includes" />
+      <item value="placeholder" />
+      <item value="search By Keyword" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="3" />
+        <entry key="ENGLISH" value="4" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1617875682309" />
+  </component>
+</application>

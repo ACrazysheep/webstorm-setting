@@ -1,0 +1,9 @@
+<keymap version="1" name="Windows 复制" parent="$default">
+  <action id="AceAction">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+</keymap>
